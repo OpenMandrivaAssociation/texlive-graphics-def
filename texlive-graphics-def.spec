@@ -1,6 +1,6 @@
 Name:		texlive-graphics-def
 Version:	64487
-Release:	1
+Release:	2
 Summary:	Colour and graphics option files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphics-def
