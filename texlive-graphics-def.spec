@@ -3,7 +3,7 @@ Version:	70970
 Release:	1
 Summary:	Colour and graphics option files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/graphics-def
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/graphics-def
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphics-def.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/graphics-def.doc.r%{version}.tar.xz
